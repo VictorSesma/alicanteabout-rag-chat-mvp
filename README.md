@@ -2,7 +2,7 @@
 
 Production-grade RAG backend for [alicanteabout.com](https://alicanteabout.com) (Alicante, Spain tourism guide). The system is backend-first and serves a lightweight JS widget on WordPress. Answers must be grounded in site content and include sources.
 
-Read about the experience building this at my blog post [https://victorsesma.com/blog/grounded-rag-chatbot-wordpress-real-mvp/](victorsesma.com).
+Read about the experience building this at my blog post [victorsesma.com](https://victorsesma.com/blog/grounded-rag-chatbot-wordpress-real-mvp/).
 
 ## Scope & Non-Goals
 
