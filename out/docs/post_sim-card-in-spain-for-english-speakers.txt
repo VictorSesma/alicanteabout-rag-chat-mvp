@@ -1,0 +1,125 @@
+Best SIM Cards in Spain if You Don’t Speak Spanish【2024 Update】
+
+URL: https://alicanteabout.com/networkoperators/sim-card-in-spain-for-english-speakers/
+
+When staying in Spain for longer periods of time the local language starts being more and more necessary. If you still want to keep the need for Spanish to a minimum there are a few tricks to be less dependent on your language knowledge. Good news: in Span, there are mobile operators for Spanish SIM cards that speak English.
+SIM Cards
+In Spain, there are a number of mobile operators providing local Spanish SIM cards for English Speakers, such as lobster.es or hitsmobile.es . Their app, website, and customer support are in English . All these MVNOs use the radio spectrum and antennas of the main companies so the best service is guaranteed.
+But what is the best English-speaking network for a SIM card in Spain? how do I get the SIM card? does it work on my phone? Let’s going to answer all these questions and more. Content:
+English Speaking SIM Card Providers
+Mobile Networks in Spain
+How to Get a Spanish SIM Card?
+Other SIM Mobile Operators (That Only Speak Spanish)
+Can You Put a Spanish SIM Card in an English Phone?
+Prepaid SIM Card
+Phone Numbers Anatomy in Spain
+Contents
+Toggle
+English Speaking SIM Cards Providers
+An NVNO is a SIM card operator that resells the service of a bigger brand that owns the infrastructure. In Spain, they are called OMVs (Operador Movil Virtual or Virtual Mobile Operator).
+MVNOs have the freedom to tailor their customer support and features such as roaming or call minutes to certain countries as per their niche needs.
+This is why we can find the perfect Spanish local phone SIMs providers for English speakers: some networks offer the website, customer support and apps in English.
+So if you are from an English-speaking country, an international student, your English is better than your Spanish, a digital nomad, an ex-pat… don’t fall on the big 4 networks as there might be a better company for you.
+Prices are usually similar between networks as the competition is high in Spain. If there are any differences they will be of very few euros per month. The differences are high only on services such as roaming or international call minutes.
+List of English-Speaking SIM Operators:
+Network Name New Customer Discount In English? Parent Network Speed International Calls Payment Shops eSIM lobster.es Yes, 5€ using ref link Yes. Website, App and Customer Support Movistar 4G+ (up to 300Mbps) Yes, to the UK and other EU countries. Pay As You Go/Prepaid Yes No hitsmobile.es No Yes. Website, App and Customer Support (also in German) Vodafone 4G (up to 150Mbps) Yes, to the UK and other EU and international countries (but contract only). Pay As You Go/Prepaid and Contract Yes No digimobil.es No Only some bits of the website. They can attend in English by email, on Facebook or on Instagram Movistar 4G+ (up to 300Mbps) In some of their tariffs Pay As You Go/Prepaid and contract Yes No avatel.es/en No Movistar 4G (up to 150Mbps) No Pay As You Go No No jetnet.es/en No Some bits of the website. Orange 4G (up to 150Mbps) No Pay As You Go No No English Speaking Mobile Operators’
+The speeds offered by each network are based on this article from AdslZone (in Spanish).
+Some of these operators are offering combos for landline phones and/or fibre optics (or internet through other techs) to your home. Some of them offer landline internet on Costa Blanca/ Alicante or Costa del Sol/Malaga and other places where English is spoken by a big chunk of the population.
+Many of these networks also have agreements with physical stores where to go and buy the SIM. This option might be more convenient if you don’t want to wait for the delivery to come to your place.
+There are other MVNOs that have free calls to Europe in their tariffs, such as Lebara or Lycamobile but no English Customer service, website or apps.
+What is Important to Look at When You are Choosing Your English Speaking Network in Spain?
+There are some factors that are more important than others when choosing a network. Here is a list of what I consider more important:
+Network coverage is only important if you live or move around often in a bad coverage area. If not, it is safe to ignore this factor.
+Customer service might be necessary at times so better to choose networks with good customer service
+Prices should be fair but they are usually very similar on data and call minutes
+SIM delivery times/store support
+Minutes to call other countries and free-roaming when travelling
+Pay As You Go/Prepaid vs Contract
+Length of your stay in Spain. A contract is fine if you live in the country, Pay As You Go/Prepaid is good either if your stay is shorter or live in Spain
+And here is what is not important:
+Network coverage if you live in an area, such as a city, with good coverage
+Max theoretical network speed if you don’t tether from your phone very often
+As long as the prices are fair, it might not be necessary to look for the cheapest deal if other compromises need to be taken
+Mobile Networks in Spain
+Spanish SIM card market is very similar to any other European country. There are 4 networks with fiscal infrastructure such as antennas and frequencies. In Spain they are:
+Movistar
+Vodafone
+Orange
+Yoigo/Masmovil (it shares antennas with Movistar and Orange in the places where it doesn’t have its owns)
+These 4 networks have their own main and niche brands but they are obligated to rent their networks to other MVNOs. They are called Operadores Moviles Virtuales (OMVs) in Spanish which translates to Virtual Mobile Operators.
+Mobile Coverage in Spain
+The good news is that the coverage in Spain is very high on any of the 4 networks but there are small differences. In this image from OpenSignal , you can see the nuances of each network. Usually, Movistar overperformances most of the metrics but the differences are small.
+From: © Opensignal Limited
+The coverage is the location where the phone signal is available. It is in the last row in the table and it is very similar on both networks Movistar and Orange.
+But how can you check you have coverage in the place where you are going to use your phone the most?
+Well, if you are in a big city, such as Alicante or Malaga , then the difference in coverage is going to be a minimum. But if you live in a little town the differences can increase.
+Note that the English mobile network you choose will use one of these parents’ mobile networks.
+Movistar Mobile Coverage
+Movistar has the coverage maps in this link (in Spanish).
+Movistar coverage per technology on April 2022
+Note that they don’t offer yet a 5G coverage map on their website but it is likely your phone will connect to 5G in most of the bigger cities.
+Vodafone Mobile Coverage
+Vodafone has its coverage map on this link (in Spanish).
+Vodafone coverage per technology on April 2022
+They don’t have a 2G map, but nowadays this service is only a low-quality voice service and is considered a legacy by most networks.
+Orange Network Coverage
+Orange’s coverage map is in this link (in Spanish).
+Orange coverage per technology on April 2022
+They mix all the techs on one map.
+Yoigo Network Coverage
+Yoigo’s coverage map is in this link (in Spanish).
+Orange coverage per technology on April 2022
+Yoigo/and Masmovil are in the same corporate group now. Their antennas are not as extended as other networks so Movistar and Orange share their infrastructure with Yoigo/Masmovil where they don’t reach.
+Differences Between the big 4 and the MVNOs
+The 4 companies with frequencies (Yoigo/Masmovil, Movistar, Orange and Vodafone) have to provide access to their networks to the NVNOs over a private agreement or a regulated price.
+This legislation allows the consumer to choose SIMs providers in between a heterogeneous range of options. Some MVNOs are not different companies per se but different brands of one of the big 4 networks. They sometimes use different brand names for different niches that their main brand can’t fulfil.
+But other MVNOs are totally separate companies that just rent most of the infrastructure but still have their own systems for billing or other technicalities (MSC, HLR…)
+Usually, customers on MVNOs will not get access to all the features the main brand can offer. For example, 4G and 5G technologies arrive in MVNOs’ customers a few months or years after the main brands’ customers get them.
+Also, some other technologies such as VoiceHD or 4G+ (that offers 300Mbps vs 150Mbps on 4G) might not be available on MVNOs.
+But the main features such as traditional calling or acceptable internet speed are maintained. Also, the network coverage is the same.
+How to Get a Spanish SIM Card?
+The process is pretty simple and similar in all the networks:
+Time needed: 3 days
+Steeps for getting a Spanish SIM Card
+Choose your network
+SIM card companies such as Lobster (5€ discount ref link) or Digimobile have full support in English.
+Buy the SIM online or head to one of the shops
+SIM cards are available from two main places:
+– online at the network’s website to get it delivered by mail
+– shops where the SIM is sold
+Identify yourself
+In Spain, you must identify yourself using a photo ID card or passport in order to be handled the SIM card.
+In online deliveries, the mail carrier will do this task. In the shops, the staff will identify you.
+Activate the SIM
+The last step is to activate the SIM on the network’s website after you have received it and start using it on your phone.
+Other SIM Mobile Operators (That Only Speak Spanish)
+In Spain, there are many SIM card providers but they offer their services only in Spanish. On this page, there is more information about other mobile operators in Spain that don’t speak English .
+Can You Put a Spanish SIM Card in an English Phone?
+Yes. All the phones sold to work in Europe are compatible around all the European continent but you need to be sure the phone is network unlocked . This is because Europe uses the standard cell technology called GSM. So it doesn’t matter if your phone is British, Norwegian or from anywhere else. It will work if unlocked.
+For phones from other continents can be a bit more tricky, you need to check first your phone is compatible with GSM, in countries such as the United States the cell tech some operators use is called CDMA. Many phones can connect to both networks even though they might be best optimised for one of them. Check the specification of your phone on this topic.
+Checking if Your Phone is Network Locked
+If you bought your phone through a carrier under a fix term contract chances are your phone is network locked and you won’t be able to use it in Spain.
+An easy trick to check if your phone is unlocked is borrowing a SIM card from someone you know is on a different network. If your phone is able to connect then it is unlocked.
+Getting your phone unlocked is totally legal and your provider has to facilitate the unlock code when your contract ends if you ask for it. This is true for the EU and the UK.
+Once your phone is unlocked then it will work on any carrier in Spain.
+Prepaid SIM Card
+Most English Speaker mobile operators in Spain have contracts and Pay As You Go tariffs.
+Pay As You Go is mostly the same as prepaid but you need a debit or credit card to pay the monthly fee for the service.
+If you want a traditional prepaid SIM card you were no debit/credit card is necessary will need to give up the English-speaking networks and default to one of the bigger brands: Movistar, Orange, Vodafone or Yoigo/Masmovil. In this article, there is more about non-English speaker networks in Span.
+If your stay in Spain is short you might want to get just a Pay As You Go SIM card. The best option is again one of these providers. They will have cheaper prices than traditional prepaid from big companies and you can cancel anytime.
+Phone Numbers Anatomy in Spain
+The Spanish phone mobile phone numbers look like this:
+(+34) 6XX XX XX XX
+or
+(+34) 7XX XX XX XX
+But numbers starting at 7 are less common and, indeed, many Spaniards don’t know mobile phone numbers can start at 7. These numbers have been around for a while now though and have no difference in pricing with the numbers starting on 6.
+The Spanish landlines phone numbers look like this:
+(+34) 9XX XX XX XX
+Each region has unique 2 numbers following the 9. For example, numbers from Alicante are like:
+(+34) 965 XX XX XX
+(+34) 966 XX XX XX
+But other regions have different numbers after the 9.
+Can I buy a Spanish SIM card in the UK?
+No, Spanish law mandates identifying the customer buying the SIM card and can’t be done in different countries.
+Can I buy s Spanish SIM Card Online?
+Spanish SIM cards can be bought online or in-store. The owner of the new line has to identify himself using a valid photo ID such as a passport or national ID as per Spanish law.

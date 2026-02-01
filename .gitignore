@@ -1,0 +1,13 @@
+# Local secrets
+.env
+
+# PHPUnit cache
+wordpress/alicanteabout-chat-token/.phpunit.result.cache
+
+# Build artifacts
+/bin
+/search
+/bin/export
+/bin/search
+
+.vscode
